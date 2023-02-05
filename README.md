@@ -1,6 +1,8 @@
 # Copyright © 2023 haulth
-Nhận diện khuôn mặt khá chuẩn xác bằng MTCNN và Facenet!
-Chạy trên Tensorflow 2.x
+Face detection using MTCNN and Facenet
+Runs on Tensorflow 2.x
+
+## Please use Python v3.9 to avoid library conflicts
 
 step 1: setup
 1. pip install -r requirements.txt
